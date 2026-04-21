@@ -1,0 +1,12 @@
+#h1_app{
+    color: #aa3bff;
+}
+
+#h1_app:hover {
+    color: #aa3b;
+}
+
+#h1_app > span:hover {
+
+    color: #9ca3af;
+}
