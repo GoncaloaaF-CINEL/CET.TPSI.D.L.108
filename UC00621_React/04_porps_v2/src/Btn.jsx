@@ -15,6 +15,7 @@ function Btn({ item }) {
                             <use href={`/icons.svg#${item.iconSvg}`}></use>
                         </svg>
                     }
+
                     {item.iconImg &&
                         <img className="logo" src={item.iconImg} alt="" />
                     }
